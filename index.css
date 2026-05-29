@@ -993,6 +993,7 @@ footer {
     .free-stats {
         flex-direction: row;
         justify-content: center;
+        
     }
 
     .stats-bar {
@@ -1039,3 +1040,4 @@ footer {
 
     .social-links a { border-right: none; border-bottom: 1px solid var(--border); }
 }
+
